@@ -1,4 +1,4 @@
-![](logo/mark.svg)
+![](http://artsmia.github.io/svg-logos/black/small_mark.svg)
 # Mia Core Version 1.0
 ###### Updated March 2016
 ###### 2016 Minneapolis Institute of Art. All rights reserved.
