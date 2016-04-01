@@ -1,4 +1,4 @@
-![](http://localhost/mia_core_metadata/logo/mark.svg)
+![](/logo/mark.svg)
 # Mia Core Version 1.0
 ###### Updated March 2016
 ###### 2016 Minneapolis Institute of Art. All rights reserved.
